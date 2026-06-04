@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: DataCore Cookbook
+message: >-
+  If you use these notebooks or the DataCore datasets in your research,
+  please cite this repository.
+type: software
+authors:
+  - name: DataCore Vietnam
+    website: https://datacore.vn
+repository-code: https://github.com/DataCore-VietNam/datacore-cookbook
+url: https://datacore.vn
+abstract: >-
+  Production-grade Jupyter notebooks for quantitative finance, equity research,
+  factor investing, and alternative data on the Vietnamese stock market
+  (HOSE, HNX, VN30) using the DataCore financial data API.
+keywords:
+  - vietnam
+  - vietnamese-stock-market
+  - quantitative-finance
+  - financial-data
+  - equity-research
+  - factor-investing
+  - alternative-data
+  - jupyter-notebooks
+  - hose
+  - vn30
+license: MIT
+version: 0.1.0
+date-released: '2026-01-01'
